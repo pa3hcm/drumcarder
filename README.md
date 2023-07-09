@@ -1,9 +1,5 @@
 # Drum carder
 
-[toc]
-
-## Introduction
-
 This repository holds all designs for my drum carder project, most notably SVG-files (for laser cutting) and STL-files (for 3D printing).
 
 ## License
